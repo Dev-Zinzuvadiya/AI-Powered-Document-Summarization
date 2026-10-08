@@ -1,0 +1,4 @@
+# Install after requirements.txt to enable local Hugging Face summarization.
+transformers>=4.44,<5
+torch>=2.2
+sentencepiece>=0.2,<1
