@@ -10,3 +10,4 @@ __pycache__/
 data/history.tmp
 *.log
 .DS_Store
+data/
